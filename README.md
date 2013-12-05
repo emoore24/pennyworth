@@ -1,4 +1,4 @@
 pennyworth
 ==========
 
-Project PennyWorth
+Project PennyWorth!
